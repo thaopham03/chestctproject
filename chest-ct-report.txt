@@ -1,0 +1,165 @@
+<CASE_NUMBER>U120891168</CASE_NUMBER>
+<STUDY_TYPE> Contrast-enhanced CT of the chest </STUDY_TYPE>
+<CLINICAL_HISTORY> Patient with a history of EGFR-mutated lung adenocarcinoma with metastasis (Exon 19 deletion, ALK-negative). Initially responded to Tarceva with dose adjustment due to grade II-III hand-foot skin reaction (HFSR). Subsequently switched to Togresol due to intolerance to Tarceva, with a noted response. Current imaging performed to assess disease status. </CLINICAL_HISTORY>
+<FINDINGS> 
+Right Lung Mass:
+The previously identified RML mass, consistent with adenocarcinoma, appears stable in size compared to prior 2024/01/30 imaging with post-contrast.
+Left Lung - Lingular Lobe:
+
+There is nodular infiltration noted in the left lingular lobe. The nodules are small round in shape and appear more prominent compared to prior studies, suggesting possible progression of disease at this site, likely representing metastasis or local tumor progression.
+
+Left Pleura:
+The left pleural effusion has increased in volume compared to previous imaging. The effusion is moderate in size and appears to be progressing, reflect worsening disease or associated pleural involvement by metastatic adenocarcinoma.
+    
+Lymph Nodes: no mediastinal, hilar, or axillary lymphadenopathy.
+Vessels and Mediastinum: Atherosclerotic plaues in coronary artery, aortic arch. The mediastinum shows no pathologically enlarged lymph nodes or masses in the provided data.
+
+Bone and Soft Tissue: The visible bony structures and soft tissues within the scanned region show no obvious metastatic lesions or abnormalities.
+Liver: non- enhanced cysts noted. </FINDINGS>
+<IMPRESSIONS> 
+1. Stable appearance of the previously identified lung adenocarcinoma, with no significant change in size or characteristics when compared to prior imaging.
+2. Nodular infiltration noted in the left lingular lobe. The nodules are small round in shape and appear   more prominent compared to prior studies, suggesting possible progression of disease at this site,  
+3. The left pleural effusion has increased in volume compared to previous imaging. Effusion is moderate in size and appears to be progressing, reflect worsening disease or associated pleural involvement by metastatic adenocarcinoma. 
+4. Atherosclerotic plaues in coronary artery. </IMPRESSIONS>
+<RECOMMNEDATIONS> None </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER>U120957927</CASE_NUMBER>
+<STUDY_TYPE> Non-contrast computed tomography of the chest was performed using standard protocols. </STUDY_TYPE>
+<CLINICAL_HISTORY> None</CLINICAL_HISTORY>
+<FINDINGS> 
+Esophagus: Improvement in the distal esophageal squamous cell carcinoma post-neoadjuvant CCRT, with a decrease in the mass effect and thickening noted on previous studies.
+Heart and great vessel:
+Cardiomegaly.
+Atherosclerotic plaues in coronary artery, aortic arch.
+Mediastinum:
+The mediastinal structures appear intact. No masses, lymphadenopathy noted.
+Lungs:
+Mild bilateral pleural effusion.
+Subpleural reticulation in the right and left lower lungs, suggestive of post-inflammatory changes or early interstitial lung disease.
+Small juxtapleural nodules in both upper chest walls, with recommendation for follow-up imaging to monitor any progression. 
+Pleura:
+No pleural effusion or pneumothorax. The pleural surfaces appear smooth without any thickening.
+Bony Structures:
+The visualized osseous structures of the chest are unremarkable without evidence of acute fractures  or destructive lesions.
+ </FINDINGS>
+<IMPRESSIONS> 
+1. Atherosclerotic plaues in coronary artery, aortic arch. Clinical correlation for further evaluation such as echocardiography may be necessary. 
+2. Mild bilateral pleural effusion.
+3. Subpleural reticulation in the right and left lower lungs, suggestive of post-inflammatory changes or early interstitial lung disease.
+4. Small juxtapleural nodules in both upper chest walls, with recommendation for follow-up imaging to monitor any progression.
+5. Improvement in the distal esophageal squamous cell carcinoma post-neoadjuvant CCRT, with a decrease in the mass effect and thickening noted on previous studies.</IMPRESSIONS>
+<RECOMMNEDATIONS> None </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> U120967050 </CASE_NUMBER>
+<STUDY_TYPE> Non-contrast computed tomography of the chest was performed using standard protocols. </STUDY_TYPE>
+<CLINICAL_HISTORY> None </CLINICAL_HISTORY>
+<FINDINGS> 
+Lungs:
+Right Lung:
+Focal Interlobular Thickening:
+There is focal interlobular thickening observed in the right lung lobe, which is consistent with changes due to previous operative intervention. 
+No associated surrounding ground-glass opacities or other signs suggestive of active inflammation or infection.
+No lung mass lesions are identified in the current study. 
+Heart and great vessel: Cardiomegaly. Atherosclerotic plaues in aortic arch.
+Mediastinum: No significant mediastinal or hilar lymphadenopathy. The pleura and chest wall are otherwise unremarkable. 
+Pleura:
+No pleural effusion or pneumothorax. The pleural surfaces appear smooth without any thickening.
+Bony Structures:
+Multiple stable bone metastases involving the sternal manubrium, posterior right 3rd rib, T8-T12 spines, with no new sites of metastasis or significant progression noted. </FINDINGS>
+<IMPRESSIONS>
+1. Focal interlobular thickening in the right lung lobe, consistent with post-operative changes, with no associated ground-glass opacities or evidence of active disease.Stable,comparing 2024/04/24.
+2. No visible lung mass lesion, likely due to prior surgical resection or effective treatment response.
+3. Multiple stable bone metastases involving the sternal manubrium, posterior right 3rd rib, T8-T12 spines, with no new sites of metastasis or significant progression noted. </IMPRESSIONS>
+<RECOMMNEDATIONS> None </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER>U120964811</CASE_NUMBER>
+<STUDY_TYPE> Non-contrast axial images of the chest were obtained. </STUDY_TYPE>
+<CLINICAL_HISTORY> Follow-up for post-operative changes and assessment of lung pathology.  </CLINICAL_HISTORY>
+<FINDINGS> 
+Left Lower Lobe:
+There is focal interlobular thickening over the left lower lobe. Adjacent to this area, 
+surgical stitches are visualized, consistent with previous operative intervention. 
+There are no surrounding ground-glass opacities, consolidative changes, or cavitations. 
+No evidence of fluid collections or abscesses.
+Comparison:
+Comparing with the previous study from 2024/06/18, the focal interlobular thickening and surgical stitch retention appears stable. No new abnormalities or significant interval changes are observed.
+Other Lung Fields:
+No additional nodules, masses, or significant parenchymal changes are noted in the remaining lung fields.
+Mediastinum and Hila:
+No mediastinal or hilar lymphadenopathy. The heart and great vessels are unremarkable.
+Pleura and Chest Wall:
+No pleural effusions or pneumothoraces. The chest wall appears intact without masses or deformities. </FINDINGS>
+<IMPRESSIONS> 
+1. Focal interlobular thickening with adjacent surgical stitches in the right lower lobe, consistent with post-operative changes. This appears stable when compared to the prior study from 2024/06/18. 
+2. No new or concerning lung abnormalities are identified. </IMPRESSIONS>
+<RECOMMNEDATIONS> Continue clinical follow-up. Another imaging study may be warranted in 6 months. </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER>U120971933 </CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> U120957199</CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> U120960102</CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> U120945406</CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> U120971951</CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> U120937223</CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> </CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> </CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> </CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
+###END###
+<CASE_NUMBER> </CASE_NUMBER>
+<STUDY_TYPE>  </STUDY_TYPE>
+<CLINICAL_HISTORY>   </CLINICAL_HISTORY>
+<FINDINGS>  </FINDINGS>
+<IMPRESSIONS> </IMPRESSIONS>
+<RECOMMNEDATIONS> </RECOMMNEDATIONS>
